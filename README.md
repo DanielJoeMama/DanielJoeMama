@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel!
 
-### My education
+### Education
 I am a radio engineering student at St. Petersburg Polytechnic University.
 
 ## About me 
